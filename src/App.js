@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './HEE_logo.svg';
 import './App.css';
 
 function App() {
@@ -13,11 +13,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://apps.tis.nhs.uk"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click here for TIS
         </a>
       </header>
     </div>
